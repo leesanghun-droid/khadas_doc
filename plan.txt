@@ -1,1 +1,11 @@
-woarfd
+1. 목표
+
+  1) vim3 보드에서 npu 로 인공지능 돌리기
+  2) vim3 보드에서 usb coral 로 인공지능 돌리기
+  3) vim3 보드에서 cpu로 인공지능 돌리기
+  4) 인공지능 한번에 3개 돌리기 (npu, coral, cpu)
+  5) 얼굴인식 인공지능 (npu, coral, cpu 택 1 )
+  6) 성별인식 인공지능 (npu, coral, cpu 택 1 )
+  7) 나이 인공지능 (npu, coral, cpu 택 1 )
+  8) ndk 사용해서 c++ 기반으로 안드로이드에서 돌리기
+	
